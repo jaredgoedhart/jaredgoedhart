@@ -1,4 +1,4 @@
-# Hi 👋🏽, I'm Jared!
+# Hi 👋🏾, I'm Jared!
 
 🎼 After graduating from the Electronic Music department of the Conservatory, I transitioned into the world of Computer Science.
 
