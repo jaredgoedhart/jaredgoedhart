@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋🏽, I'm Jared!
 
-<!--
-**jaredgoedhart/jaredgoedhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎼 After graduating from the Electronic Music department of the Conservatory, I transitioned into the world of Computer Science.
 
-Here are some ideas to get you started:
+🎓 I studied at Codam College, where I focused mainly on C, C++, Linux, and Typescript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently, I’m in the process of pursuing a Software Engineering Internship.
+
+🧼 I’m a fan of clean code. I write code that is readable, easy to understand, and self-explanatory.
+
+📈 I’m always eager to learn and improve my skills, looking for ways to make my code even cleaner and more efficient.
+
+🍃 Outside of coding, I enjoy music production, visiting museums, and sipping on a good cup of tea.
