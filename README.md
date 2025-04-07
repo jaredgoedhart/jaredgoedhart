@@ -1,12 +1,12 @@
 # Hi 👋🏽, I'm Jared!
 
-🎼 After graduating from the Electronic Music department of the Conservatory, I transitioned into the world of Computer Science.
+🎼 After graduating from the Electronic Music department of the Conservatory of Amsterdam, I transitioned into the world of Computer Science.
 
-🎓 I studied at Codam College, where I focused mainly on C, C++, Linux, and Typescript.
+🎓 I studied at Codam Coding College, where I focused mainly on C, C++, Linux, and Typescript.
 
 💻 Currently, I’m in the process of pursuing a Software Engineering Internship.
 
-🧼 I’m a fan of clean code. I write code that is readable, easy to understand, and self-explanatory.
+🧼 I’m a fan of clean code. I write code that is readable, easy to understand and self-explanatory.
 
 📈 I’m always eager to learn and improve my skills, looking for ways to make my code even cleaner and more efficient.
 
