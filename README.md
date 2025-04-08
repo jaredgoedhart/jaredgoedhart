@@ -2,7 +2,7 @@
 
 🎼 After graduating from the Electronic Music department of the Conservatory of Amsterdam, I transitioned into the world of Computer Science.
 
-🎓 I studied at Codam Coding College (42 The Network), where I focused mainly on C, C++ and Typescript in a Linux environment.
+🎓 I studied at Codam Coding College (42 The Network), where I focused mainly on C/C++ in a Linux environment.
 
 💻 Currently, I’m in the process of pursuing a Software Engineering Internship.
 
