@@ -6,7 +6,7 @@
 
 💻 Currently, I’m in the process of pursuing a Software Engineering Internship.
 
-🧼 I’m a fan of clean code. I write code that is readable, easy to understand and self-explanatory.
+🧼 I’m a fan of [clean code](https://github.com/jaredgoedhart/styling/blob/main/README.md). I write code that is readable, easy to understand and self-explanatory.
 
 🏆 I’m always eager to learn and improve my skills, looking for ways to make my code even cleaner and more efficient.
 
